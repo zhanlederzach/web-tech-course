@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97bf67e4-fb1f-4f4c-80dc-41dee9552b7a" name="Default Changelist" comment="add angular">
+      <change afterPath="$PROJECT_DIR$/src/app/create/create.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/create/create.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/create/create.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/create/create.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todoback/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todoback/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/lab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/model/model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/model/model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/service/provider.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/service/provider.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/task-list/task-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/task-list/task-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/task-list/task-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/task-list/task-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/task/task.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/task/task.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/task/task.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/task/task.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/BudgetDatabase/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/BudgetDatabase/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/BudgetDatabase/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/BudgetDatabase/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/BudgetDatabase/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cache/097cb6166fad2e57_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cache/1b268897b5d34293_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cache/238e36850145affa_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cache/2e0abe4dae673954_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cache/3ee0ff74b86388e1_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cache/4778d0e9eaae7110_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cache/54c7256cb5ab8dfe_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cache/5705accdbcfe5937_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cache/9379bcd486766221_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cache/b8bb698b0061082b_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cache/cd6dff118b4ace45_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cache/dee5ff81db921ef0_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cache/e9f1a9322aceedcf_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cache/edaeaf8c81781d25_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cache/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cache/index-dir/the-real-index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Code Cache/js/3955322a5755d8d3_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Code Cache/js/aa3abbe71413e7c4_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Code Cache/js/cfdeecf21c799685_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Code Cache/js/e93310c341081e7d_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Code Cache/js/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Code Cache/js/index-dir/the-real-index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cookies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Cookies-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Current Session" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Current Tabs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extension Rules/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extension Rules/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extension Rules/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extension Rules/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extension Rules/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extension State/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extension State/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extension State/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extension State/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extension State/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/am/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ar/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/bg/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/bn/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ca/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/cs/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/da/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/de/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/el/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/en/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/es/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/et/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/fa/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/fi/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/fil/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/fr/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/gu/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/hi/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/hr/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/hu/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/id/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/it/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/iw/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ja/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/kn/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ko/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/lt/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/lv/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ml/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/mr/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ms/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/nb/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/nl/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/pl/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/pt/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ro/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ru/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/sk/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/sl/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/sr/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/sv/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/sw/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ta/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/te/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/th/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/tr/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/uk/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/vi/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/zh/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/zh_TW/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_metadata/verified_contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/angular.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/background_script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_game_sender.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_sender.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_setup/cast_app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_setup/cast_app_min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_setup/cast_app_redirect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_setup/chromecast_logo_grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_setup/devices.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_setup/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_setup/offers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_setup/setup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/feedback.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/feedback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/feedback_script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/material_css_min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/mirroring_cast_streaming.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/mirroring_common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/mirroring_hangouts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/mirroring_webrtc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Favicons" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Favicons-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/GPUCache/data_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/GPUCache/data_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/GPUCache/data_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/GPUCache/data_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/GPUCache/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/History" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/History Provider Cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/History-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/IndexedDB/https_www.google.kz_0.indexeddb.leveldb/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/IndexedDB/https_www.google.kz_0.indexeddb.leveldb/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/IndexedDB/https_www.google.kz_0.indexeddb.leveldb/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/IndexedDB/https_www.google.kz_0.indexeddb.leveldb/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/IndexedDB/https_www.google.kz_0.indexeddb.leveldb/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Local Storage/leveldb/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Local Storage/leveldb/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Local Storage/leveldb/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Local Storage/leveldb/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Local Storage/leveldb/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Login Data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Login Data-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Network Action Predictor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Network Action Predictor-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Network Persistent State" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Preferences" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/QuotaManager" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/QuotaManager-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Secure Preferences" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Service Worker/CacheStorage/f24f8382e27000697cbc312852780071690901b1/0745facd-0507-428f-84c4-a2ce1c6aaa51/2e0abe4dae673954_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Service Worker/CacheStorage/f24f8382e27000697cbc312852780071690901b1/0745facd-0507-428f-84c4-a2ce1c6aaa51/2e0abe4dae673954_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Service Worker/CacheStorage/f24f8382e27000697cbc312852780071690901b1/0745facd-0507-428f-84c4-a2ce1c6aaa51/54c7256cb5ab8dfe_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Service Worker/CacheStorage/f24f8382e27000697cbc312852780071690901b1/0745facd-0507-428f-84c4-a2ce1c6aaa51/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Service Worker/CacheStorage/f24f8382e27000697cbc312852780071690901b1/0745facd-0507-428f-84c4-a2ce1c6aaa51/index-dir/the-real-index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Service Worker/CacheStorage/f24f8382e27000697cbc312852780071690901b1/index.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Service Worker/Database/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Service Worker/Database/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Service Worker/Database/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Service Worker/Database/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Service Worker/Database/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Service Worker/ScriptCache/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Service Worker/ScriptCache/index-dir/the-real-index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Session Storage/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Session Storage/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Session Storage/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Session Storage/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Session Storage/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Shortcuts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Shortcuts-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Site Characteristics Database/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Site Characteristics Database/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Site Characteristics Database/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Site Characteristics Database/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Site Characteristics Database/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Sync Data/LevelDB/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Sync Data/LevelDB/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Sync Data/LevelDB/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Sync Data/LevelDB/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Sync Data/LevelDB/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Top Sites" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Top Sites-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Translate Ranker Model" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/TransportSecurity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Visited Links" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Web Data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/Web Data-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/data_reduction_proxy_leveldb/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/data_reduction_proxy_leveldb/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/data_reduction_proxy_leveldb/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/data_reduction_proxy_leveldb/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/data_reduction_proxy_leveldb/MANIFEST-000002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/databases/Databases.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/databases/Databases.db-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/page_load_capping_opt_out.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/page_load_capping_opt_out.db-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/previews_opt_out.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Default/previews_opt_out.db-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/First Run" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/Local State" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/ShaderCache/GPUCache/data_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/ShaderCache/GPUCache/data_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/ShaderCache/GPUCache/data_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/ShaderCache/GPUCache/data_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/ShaderCache/GPUCache/f_000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/ShaderCache/GPUCache/f_000002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/ShaderCache/GPUCache/f_000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/ShaderCache/GPUCache/f_000004" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/ShaderCache/GPUCache/f_000005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/ShaderCache/GPUCache/f_000006" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/ShaderCache/GPUCache/f_000007" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/ShaderCache/GPUCache/f_000008" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/ShaderCache/GPUCache/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~/chrome/tmp/chrome_shutdown_ms.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoback/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todoback/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoback/.idea/todoback.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../todoback/.idea/todoback.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoback/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todoback/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoback/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../todoback/api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoback/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../todoback/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoback/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../todoback/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoback/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../todoback/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoback/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../todoback/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoback/todoback/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../todoback/todoback/settings.py" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/dist/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/task-list/task-list.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="53" column="72" selection-start-line="53" selection-start-column="72" selection-end-line="53" selection-end-column="72" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/task-list/task-list.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/task/task.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="n#style#0;n#li#0;n#ul#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/task/task.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/create/create.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/shared/model/model.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/shared/service/provider.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="34" column="2" lean-forward="true" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/create/create.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Zhanel &lt;derzach.com@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/src/app/create/create.component.html" />
+        <option value="$PROJECT_DIR$/src/app/shared/model/model.ts" />
+        <option value="$PROJECT_DIR$/src/app/create/create.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/shared/service/provider.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/task-list/task-list.component.html" />
+        <option value="$PROJECT_DIR$/src/app/task-list/task-list.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/task/task.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/task/task.component.html" />
+        <option value="$PROJECT_DIR$/src/app/app.module.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="465" />
+    <option name="y" value="373" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="todo-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo-front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todo-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo-front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todo-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo-front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todo-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo-front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="create" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todo-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo-front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todo-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo-front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="task-list" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/src/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97bf67e4-fb1f-4f4c-80dc-41dee9552b7a" name="Default Changelist" comment="" />
+      <created>1555952268330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555952268330</updated>
+      <workItem from="1555952270833" duration="1981000" />
+      <workItem from="1555961384067" duration="4223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6204000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18797815" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3099352" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add angular" />
+    <option name="LAST_COMMIT_MESSAGE" value="add angular" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/assets/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/rxjs/internal/types.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/home/home.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/home/home.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/child/child.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/child/child.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/tslint.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/create/create.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shared/model/model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shared/service/provider.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="34" column="2" lean-forward="true" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/task-list/task-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="53" column="72" selection-start-line="53" selection-start-column="72" selection-end-line="53" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/task-list/task-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/task/task.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/task/task.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/create/create.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
