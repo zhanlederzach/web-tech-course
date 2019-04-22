@@ -4,6 +4,8 @@ from django.db import models
 
 
 # Create your models here.
+from django.utils.datetime_safe import datetime
+
 
 class TaskList(models.Model):
     name = models.CharField(max_length=256)
@@ -25,8 +27,8 @@ class TaskList(models.Model):
 
 class Task(models.Model):
     name = models.CharField(max_length=256)
-    created_at = models.DateTimeField(auto_now=True)
-    due_on = models.DateTimeField()
+    created_at = models.DateTimeField(default=datetime.now, blank=True)
+    due_on = models.DateTimeField(default=datetime.now, blank=True)
     status = models.CharField(max_length=256)
     task_list = models.ForeignKey(TaskList, models.CASCADE)
 

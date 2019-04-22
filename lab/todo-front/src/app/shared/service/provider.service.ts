@@ -27,4 +27,12 @@ export class ProviderService extends MainService {
   getTasks(id: number): Promise<ITaskList> {
     return this.get(`http://localhost:8000/api/tasks/${id}/`, {});
   }
+
+  createTask(task: ITask): Promise<ITask> {
+    return this.post(`http://localhost:8000/api/tasks`, task);
+  }
+
+  deleteTask(id: number) {
+    return this.delete(`http://localhost:8000/api/tasks/${id}/`, {});
+  }
 }

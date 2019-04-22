@@ -4,19 +4,15 @@ from django.http import HttpResponse, JsonResponse
 from django.views.decorators.csrf import csrf_exempt
 
 from api.models import TaskList, Task
-from api.serializers import TaskListSerializer, TaskListSerializer2, TaskSerializer
+from api.serializers import TaskListSerializer2, TaskListSerializer, TaskSerializer
 
 
 def hello(request):
     return HttpResponse('hello')
 
+
 @csrf_exempt
 def task_lists(request):
-    # try:
-    #     return JsonResponse([x.to_json() for x in TaskList.objects.all()], safe=False)
-    # except TaskList.DoesNotExist as e:
-    #     return JsonResponse({'error': str(e)}, status=404)
-
     if request.method == 'GET':
         task_lists = TaskList.objects.all()
         serializer = TaskListSerializer2(task_lists, many=True)
@@ -30,6 +26,7 @@ def task_lists(request):
             return JsonResponse(serializer.data, status=200)
         return JsonResponse(serializer.errors)
     return JsonResponse({'error': 'bad request'})
+
 
 @csrf_exempt
 def task_lists_with_id(request, id):
@@ -58,6 +55,7 @@ def task_lists_with_id(request, id):
         return JsonResponse({}, status=200)
     return JsonResponse({'error': 'bad request'})
 
+
 @csrf_exempt
 def tasks_of_tasklist_with_id(request, id):
     try:
@@ -70,8 +68,27 @@ def tasks_of_tasklist_with_id(request, id):
     return JsonResponse(response, safe=False)
 
 
+@csrf_exempt
 def task(request, id):
     try:
-        return JsonResponse(Task.objects.get(id=id).to_json(), safe=False)
+        if request.method == 'DELETE':
+            task = Task.objects.get(id=id)
+            task.delete()
+            return JsonResponse(task.to_json(), safe=False)
+            pass
+        else:
+            return JsonResponse(Task.objects.get(id=id).to_json(), safe=False)
     except Task.DoesNotExist as e:
         return JsonResponse({'error': str(e)}, status=404)
+
+
+@csrf_exempt
+def tasks(request):
+    if request.method == 'POST':
+        task = json.loads(request.body)
+        print(task)
+        serializer = TaskSerializer()
+        task = serializer.create(task)
+        return JsonResponse(task.to_json(), safe=False)
+
+    return JsonResponse({'error': "Not found"}, status=404)

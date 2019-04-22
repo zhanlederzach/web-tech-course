@@ -8,6 +8,7 @@ import { ITaskList, ITask } from '../shared/model/model';
   styleUrls: ['./task-list.component.css']
 })
 export class TaskListComponent implements OnInit {
+  private taskCreate: boolean;
 
   constructor(private provider: ProviderService) { }
 
@@ -17,6 +18,16 @@ export class TaskListComponent implements OnInit {
 
   isTaskSelected = false;
   task: ITask = null;
+
+  deleted = [];
+
+  onDeletedTask(id) {
+    this.deleted.push(id);
+  }
+
+  public afterCreatedCallback() {
+    console.log('afterCreatedCallback');
+  }
 
   ngOnInit() {
     this.provider.getTasksOfTaskList(this.taskList.id).then(response => {
@@ -28,5 +39,18 @@ export class TaskListComponent implements OnInit {
     console.log(task);
     this.isTaskSelected = true;
     this.task = task;
+  }
+
+  createTask() {
+    this.taskCreate = true;
+
+  }
+
+  isTaskCreating(): boolean {
+    return this.taskCreate;
+  }
+
+  isDeleted(id: number) {
+    return this.deleted.filter((deletedId) => deletedId === id).length !== 0;
   }
 }
