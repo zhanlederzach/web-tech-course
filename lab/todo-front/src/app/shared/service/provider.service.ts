@@ -20,7 +20,7 @@ export class ProviderService extends MainService {
     return this.get(`http://localhost:8000/api/task_lists/${id}/`, {});
   }
 
-  getTasksOfTaskList(id: number): Promise<ITaskList[]> {
+  getTasksOfTaskList(id: number): Promise<ITask[]> {
     return this.get(`http://localhost:8000/api/task_lists/${id}/tasks/`, {});
   }
 
