@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9013986-1956-40f7-9661-cbe4393a2170" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/lab.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../todo-front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../todo-front/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/src/app/task-list/task-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../todo-front/src/app/task-list/task-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/src/app/task-list/task-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../todo-front/src/app/task-list/task-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/BudgetDatabase/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/BudgetDatabase/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/BudgetDatabase/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/BudgetDatabase/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/BudgetDatabase/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cache/097cb6166fad2e57_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cache/1b268897b5d34293_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cache/238e36850145affa_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cache/2e0abe4dae673954_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cache/3ee0ff74b86388e1_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cache/4778d0e9eaae7110_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cache/54c7256cb5ab8dfe_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cache/5705accdbcfe5937_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cache/9379bcd486766221_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cache/b8bb698b0061082b_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cache/cd6dff118b4ace45_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cache/dee5ff81db921ef0_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cache/e9f1a9322aceedcf_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cache/edaeaf8c81781d25_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cache/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cache/index-dir/the-real-index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Code Cache/js/3955322a5755d8d3_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Code Cache/js/aa3abbe71413e7c4_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Code Cache/js/cfdeecf21c799685_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Code Cache/js/e93310c341081e7d_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Code Cache/js/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Code Cache/js/index-dir/the-real-index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cookies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Cookies-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Current Session" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Current Tabs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extension Rules/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extension Rules/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extension Rules/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extension Rules/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extension Rules/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extension State/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extension State/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extension State/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extension State/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extension State/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/am/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ar/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/bg/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/bn/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ca/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/cs/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/da/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/de/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/el/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/en/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/es/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/et/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/fa/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/fi/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/fil/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/fr/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/gu/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/hi/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/hr/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/hu/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/id/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/it/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/iw/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ja/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/kn/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ko/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/lt/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/lv/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ml/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/mr/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ms/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/nb/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/nl/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/pl/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/pt/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ro/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ru/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/sk/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/sl/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/sr/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/sv/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/sw/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/ta/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/te/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/th/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/tr/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/uk/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/vi/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/zh/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_locales/zh_TW/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/_metadata/verified_contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/angular.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/background_script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_game_sender.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_sender.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_setup/cast_app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_setup/cast_app_min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_setup/cast_app_redirect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_setup/chromecast_logo_grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_setup/devices.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_setup/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_setup/offers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/cast_setup/setup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/feedback.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/feedback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/feedback_script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/material_css_min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/mirroring_cast_streaming.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/mirroring_common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/mirroring_hangouts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/7319.128.0.1_0/mirroring_webrtc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Favicons" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Favicons-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/GPUCache/data_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/GPUCache/data_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/GPUCache/data_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/GPUCache/data_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/GPUCache/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/History" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/History Provider Cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/History-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/IndexedDB/https_www.google.kz_0.indexeddb.leveldb/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/IndexedDB/https_www.google.kz_0.indexeddb.leveldb/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/IndexedDB/https_www.google.kz_0.indexeddb.leveldb/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/IndexedDB/https_www.google.kz_0.indexeddb.leveldb/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/IndexedDB/https_www.google.kz_0.indexeddb.leveldb/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Local Storage/leveldb/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Local Storage/leveldb/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Local Storage/leveldb/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Local Storage/leveldb/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Local Storage/leveldb/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Login Data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Login Data-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Network Action Predictor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Network Action Predictor-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Network Persistent State" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Preferences" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/QuotaManager" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/QuotaManager-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Secure Preferences" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Service Worker/CacheStorage/f24f8382e27000697cbc312852780071690901b1/0745facd-0507-428f-84c4-a2ce1c6aaa51/2e0abe4dae673954_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Service Worker/CacheStorage/f24f8382e27000697cbc312852780071690901b1/0745facd-0507-428f-84c4-a2ce1c6aaa51/2e0abe4dae673954_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Service Worker/CacheStorage/f24f8382e27000697cbc312852780071690901b1/0745facd-0507-428f-84c4-a2ce1c6aaa51/54c7256cb5ab8dfe_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Service Worker/CacheStorage/f24f8382e27000697cbc312852780071690901b1/0745facd-0507-428f-84c4-a2ce1c6aaa51/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Service Worker/CacheStorage/f24f8382e27000697cbc312852780071690901b1/0745facd-0507-428f-84c4-a2ce1c6aaa51/index-dir/the-real-index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Service Worker/CacheStorage/f24f8382e27000697cbc312852780071690901b1/index.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Service Worker/Database/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Service Worker/Database/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Service Worker/Database/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Service Worker/Database/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Service Worker/Database/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Service Worker/ScriptCache/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Service Worker/ScriptCache/index-dir/the-real-index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Session Storage/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Session Storage/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Session Storage/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Session Storage/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Session Storage/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Shortcuts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Shortcuts-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Site Characteristics Database/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Site Characteristics Database/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Site Characteristics Database/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Site Characteristics Database/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Site Characteristics Database/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Sync Data/LevelDB/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Sync Data/LevelDB/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Sync Data/LevelDB/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Sync Data/LevelDB/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Sync Data/LevelDB/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/MANIFEST-000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Top Sites" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Top Sites-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Translate Ranker Model" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/TransportSecurity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Visited Links" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Web Data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/Web Data-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/data_reduction_proxy_leveldb/000003.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/data_reduction_proxy_leveldb/CURRENT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/data_reduction_proxy_leveldb/LOCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/data_reduction_proxy_leveldb/LOG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/data_reduction_proxy_leveldb/MANIFEST-000002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/databases/Databases.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/databases/Databases.db-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/page_load_capping_opt_out.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/page_load_capping_opt_out.db-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/previews_opt_out.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Default/previews_opt_out.db-journal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/First Run" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/Local State" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/ShaderCache/GPUCache/data_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/ShaderCache/GPUCache/data_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/ShaderCache/GPUCache/data_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/ShaderCache/GPUCache/data_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/ShaderCache/GPUCache/f_000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/ShaderCache/GPUCache/f_000002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/ShaderCache/GPUCache/f_000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/ShaderCache/GPUCache/f_000004" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/ShaderCache/GPUCache/f_000005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/ShaderCache/GPUCache/f_000006" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/ShaderCache/GPUCache/f_000007" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/ShaderCache/GPUCache/f_000008" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/ShaderCache/GPUCache/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-front/~/chrome/tmp/chrome_shutdown_ms.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/todoback.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/todoback.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoback/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todoback/settings.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/lib/python3.6/datetime.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="1483" column="8" lean-forward="true" selection-start-line="1483" selection-start-column="8" selection-end-line="1483" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="76" column="58" selection-start-line="76" selection-start-column="58" selection-end-line="76" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/todoback/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="47" column="48" lean-forward="true" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/envlast/lib/python3.7/site-packages/django/db/models/fields/related.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="208" column="14" selection-start-line="208" selection-start-column="14" selection-end-line="208" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/envlast/lib64/python3.7/site-packages/django/db/models/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="398" lean-forward="true" selection-start-line="398" selection-end-line="398" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>~~~</find>
+      <find>corsheaders</find>
+      <find>todoback.api</find>
+      <find>CORS_ORIGIN_WHITELIST</find>
+      <find>class Model(</find>
+      <find>class Task</find>
+      <find>task</find>
+      <find>POST</find>
+      <find>Task</find>
+      <find>as_dict</find>
+      <find>create(</find>
+      <find>DELETE</find>
+      <find>id=id</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/todoback</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/api/__init__.py" />
+        <option value="$PROJECT_DIR$/todoback/urls.py" />
+        <option value="$PROJECT_DIR$/api/admin.py" />
+        <option value="$PROJECT_DIR$/todoback/settings.py" />
+        <option value="$PROJECT_DIR$/api/urls.py" />
+        <option value="$PROJECT_DIR$/api/models.py" />
+        <option value="$PROJECT_DIR$/api/serializers.py" />
+        <option value="$PROJECT_DIR$/api/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="y" value="-4" />
+    <option name="width" value="1922" />
+    <option name="height" value="1085" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="todoback" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todoback" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todoback" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todoback" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="todoback" type="Python.DjangoServer" factoryName="Django server">
+      <module name="todoback" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="todoback.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9013986-1956-40f7-9661-cbe4393a2170" name="Default Changelist" comment="" />
+      <created>1555254888559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555254888559</updated>
+      <workItem from="1555254889832" duration="5989000" />
+      <workItem from="1555289492780" duration="4367000" />
+      <workItem from="1555920232904" duration="869000" />
+      <workItem from="1555925398459" duration="9104000" />
+      <workItem from="1555951915480" duration="4970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25299000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26120642" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29697624" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2786177" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32829374" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32927504" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/api/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/todoback/lib/python3.6/site-packages/django/core/checks/registry.py" />
+    <entry file="file://$USER_HOME$/.virtualenvs/todoback/lib/python3.6/site-packages/django/contrib/admin/sites.py" />
+    <entry file="file://$USER_HOME$/.virtualenvs/todoback/lib/python3.6/site-packages/django/db/models/query.py" />
+    <entry file="file://$USER_HOME$/.virtualenvs/todoback/lib/python3.6/site-packages/django/db/models/manager.py" />
+    <entry file="file://$USER_HOME$/.virtualenvs/todoback/lib/python3.6/site-packages/django/http/response.py" />
+    <entry file="file://$PROJECT_DIR$/api/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todoback/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/django/utils/autoreload.py" />
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/django/core/management/commands/runserver.py" />
+    <entry file="file://$PROJECT_DIR$/api/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todoback/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="47" column="48" lean-forward="true" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/envlast/lib/python3.7/site-packages/django/db/models/fields/related.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="208" column="14" selection-start-line="208" selection-start-column="14" selection-end-line="208" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/envlast/lib64/python3.7/site-packages/django/db/models/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="398" lean-forward="true" selection-start-line="398" selection-end-line="398" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="1483" column="8" lean-forward="true" selection-start-line="1483" selection-start-column="8" selection-end-line="1483" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="76" column="58" selection-start-line="76" selection-start-column="58" selection-end-line="76" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
